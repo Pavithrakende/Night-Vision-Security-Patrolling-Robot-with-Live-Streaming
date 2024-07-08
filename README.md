@@ -4,6 +4,8 @@ This also features live streaming of the camera so  this can also be used in res
 This is done using DC motors, a chassis and the brain of the entire system is Raspberry pi 
 The 2 boards will be working synchronised with each other
 
+can create a night vision security patrolling robot using Raspberry Pi, a night vision camera, and DC motors. For live streaming, we can use Flask to create a simple web server.
+
 //Requirements//
 1.Raspberry Pi (with Raspbian OS installed)
 2.Raspberry Pi Camera Module (with night vision capabilities)
